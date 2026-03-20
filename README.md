@@ -1,79 +1,66 @@
 # career-portfolio
 Professional portfolio showcasing my projects, skills and career achievements.
 
-# 👋 Hi, I'm Joydeep Majumdar
+# Joydeep Majumdar — Project, Operations & AI Portfolio
 
-Senior Specialist – Consulting | Digital & Operations  
-📍 West Bengal, India  
-🔗 LinkedIn: https://www.linkedin.com/in/joydeep-majumdar/ 
-📧 Email: joydeep9911@gmail.com
+Senior Specialist with experience across **Project Management (PMO)**,  
+**Operations & Process Excellence**, and **AI‑driven product thinking**.
 
----
-
-## 🚀 About Me
-I am a Senior Specialist with experience in digital transformation, operations, and interactive solutions.  
-I focus on solving real-world business problems using technology, process improvement, and structured execution.
+This GitHub portfolio showcases **real-world case studies**, **design work**,
+and **decision frameworks** mapped directly to my professional experience and
+interview narratives — not just code.
 
 ---
 
-## 🧠 Core Skills
-- Project & Operations Management  
-- Digital Transformation  
-- Supply Chain & Operations  
-- AI & Automation (Beginner–Intermediate)  
-- Tools: Jira, GitHub, Azure, SAP EWM, MS Copilot  
+## 🔹 What You’ll Find Here
+
+This repository is structured to help you quickly understand:
+- **What problems I’ve solved**
+- **How I think about delivery, systems, and outcomes**
+- **How my work maps to my resume and target roles**
+
+If you’re reviewing this for hiring or interview preparation, start with
+**Resume → GitHub Mapping** below.
 
 ---
 
-## 🏆 Career Highlights
-- Led cross-functional initiatives improving operational efficiency  
-- Worked on enterprise-scale digital projects  
-- Supported stakeholders with structured reporting and PMO practices  
+## 🔹 Quick Navigation
+
+| Section | What it Contains |
+|------|----------------|
+| Resume → GitHub | Direct mapping of resume bullets to evidence |
+| Case Studies | PM, Operations, AI & Product design work |
+| Artifacts | Diagrams, dashboards, visual proof |
+| Certifications | Learning & upskilling |
+| Contact | How to reach me |
 
 ---
 
-## 📂 Selected Projects
+## 🔹 Resume → GitHub Mapping (Start Here)
 
-### 🔹 Project 1: Supply Chain Optimization Dashboard
-**Description:**  
-Built a conceptual dashboard to visualize inventory flow and demand patterns.
+📂 **`resume-mapping/`**
 
-**What I Did:**
-- Defined KPIs  
-- Created process flow  
-- Structured reporting metrics  
+This section explicitly links **resume claims** to:
+- Case studies
+- Artifacts
+- Design documents
 
-📁 Folder: `projects/supply-chain-dashboard`
+It’s designed to make validation fast and transparent.
 
 ---
 
-### 🔹 Project 2: PMO Metrics Framework
-**Description:**  
-Designed a PMO metrics framework using Jira for leadership reporting.
+## 🔹 Featured Case Studies
 
-**Key Contributions:**
-- Defined delivery KPIs  
-- Risk & dependency tracking  
-- Stakeholder reporting  
+📂 **`project-case-studies/`**
 
-📁 Folder: `projects/pmo-metrics`
+Each folder represents a **complete professional case study**:
+problem → context → solution → trade‑offs → outcomes.
 
----
+### ⭐ Project Management Tool Design (Jira‑like)
+📁 `pm-tool-design/`
 
-## 🎓 Certifications & Learning
-- AI Product Management – DeepLearning.AI
-- Microsoft Copilot & M365 fundamentals
-- Supply Chain Management fundamentals
-
----
-
-## 📈 What I'm Learning Next
-- Advanced GitHub usage  
-- AI in Operations & Forecasting  
-- Product Management frameworks  
-
----
-
-## 📫 Connect With Me
-- LinkedIn: <link>
-- GitHub: <your-profile>
+- Designed a Jira‑like PM tool focusing on:
+  - Agile execution
+  - PMO governance
+  - Enterprise scalability
+- Defined workflows, architecture, metrics, and controls
