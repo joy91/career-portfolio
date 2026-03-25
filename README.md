@@ -1,6 +1,6 @@
 
-Joydeep Majumdar — Enterprise Analytics, Strategy & Delivery Portfolio
-About This Portfolio
+**Joydeep Majumdar — Enterprise Analytics, Strategy & Delivery Portfolio**
+*About This Portfolio*
 This GitHub repository is a career portfolio, designed for recruiters, hiring managers, and interviewers to quickly understand:
 
 What problems I have solved
@@ -13,8 +13,6 @@ Start here if you’re reviewing my profile:
 📂 resume-mapping/resume-to-github.md
 
 
-
-
 Career Arc (At a Glance)
 SAP ABAP (Enterprise Systems Foundation)
 → MBA & Emerging Technology Strategy (Blockchain)
@@ -25,7 +23,7 @@ SAP ABAP (Enterprise Systems Foundation)
 This progression reflects a deliberate shift from systems execution → data‑driven insight → enterprise decision support → delivery governance.
 
 
-Core Strengths
+~Core Strengths~
 
 Business–technology bridge
 AI/ML & NLP applied to real business problems
