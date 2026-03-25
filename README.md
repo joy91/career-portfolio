@@ -1,5 +1,5 @@
-
 #Joydeep Majumdar — Enterprise Analytics, Strategy & Delivery Portfolio
+
 ##About This Portfolio
 This GitHub repository is a career portfolio, designed for recruiters, hiring managers, and interviewers to quickly understand:
 
