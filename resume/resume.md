@@ -132,18 +132,3 @@ Detailed, evidence‑based case studies available at:
 **GitHub:** \[career‑portfolio link]
 
 ***
-
-### ✅ How to use this resume
-
-*   Works for **Manager / Senior Manager / Leadership roles**
-*   ATS‑safe (no tables, graphics, or icons)
-*   Easy to tailor slightly for **PMO / AI Product / Strategy / Transformation** roles
-
-If you want next, I can:
-
-*   Tailor this for a **specific job description**
-*   Create a **1‑page executive version**
-*   Optimize keywords for a **specific ATS**
-*   Convert this into a **Word (.docx) or PDF‑ready format**
-
-Just tell me what you want to do next.
