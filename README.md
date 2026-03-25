@@ -1,6 +1,6 @@
 
-**Joydeep Majumdar — Enterprise Analytics, Strategy & Delivery Portfolio**
-*About This Portfolio*
+#Joydeep Majumdar — Enterprise Analytics, Strategy & Delivery Portfolio
+##About This Portfolio
 This GitHub repository is a career portfolio, designed for recruiters, hiring managers, and interviewers to quickly understand:
 
 What problems I have solved
@@ -13,7 +13,7 @@ Start here if you’re reviewing my profile:
 📂 resume-mapping/resume-to-github.md
 
 
-Career Arc (At a Glance)
+##Career Arc (At a Glance)
 SAP ABAP (Enterprise Systems Foundation)
 → MBA & Emerging Technology Strategy (Blockchain)
 → AI/ML & Analytics (Senior Analyst)
@@ -23,7 +23,7 @@ SAP ABAP (Enterprise Systems Foundation)
 This progression reflects a deliberate shift from systems execution → data‑driven insight → enterprise decision support → delivery governance.
 
 
-~Core Strengths~
+##Core Strengths
 
 Business–technology bridge
 AI/ML & NLP applied to real business problems
@@ -33,7 +33,7 @@ PMO‑style execution and delivery governance
 Executive communication and storytelling
 
 
-Portfolio Structure & Key Sections
+##Portfolio Structure & Key Sections
 🔹 Resume → GitHub Mapping (Start Here)
 📂 resume-mapping/
 A direct, reviewer‑friendly map from resume claims → GitHub evidence. Each role and responsibility is backed by one or more case studies.
@@ -96,7 +96,7 @@ Timelines, risks, defects, change requests, and approvals
 This portfolio reflects a PMO‑ready mindset, focused on execution certainty and measurable outcomes.
 
 
-How to Review This Portfolio
+##How to Review This Portfolio
 If you have 5 minutes:
 
 Read this README
@@ -118,6 +118,6 @@ Supply Chain Analytics
 Digital / Data Consulting
 
 
-Closing Note
+###Closing Note
 This repository is intentionally structured to show how I think, decide, and deliver—not just what tools I have used.
 I’m happy to walk through any case study in detail during interviews.
