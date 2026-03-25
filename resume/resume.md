@@ -1,8 +1,3 @@
-Yes — below is an **ATS‑friendly, 2‑page resume** that **compresses your entire career cleanly** and positions you for **Manager / Senior Manager / Leadership roles** (PMO, Strategy, Analytics, Transformation, AI Product).
-
-This is **plain‑text / Word‑safe**, uses **standard headings**, avoids graphics/tables, and is **ready to paste** into Word, Google Docs, or an ATS.
-
-***
 
 # **JOYDEEP MAJUMDAR**
 
