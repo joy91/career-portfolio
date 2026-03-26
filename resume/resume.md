@@ -129,6 +129,6 @@ Full‑Time Program | \[Esteemed Institution]
 ## **PORTFOLIO**
 
 Detailed, evidence‑based case studies available at:  
-**GitHub:** \[career‑portfolio link]
+**GitHub:** https://github.com/joy91/career-portfolio
 
 ***
