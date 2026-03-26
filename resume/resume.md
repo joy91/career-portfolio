@@ -2,8 +2,8 @@
 # **JOYDEEP MAJUMDAR**
 
 Senior Specialist | Strategy, Analytics, Supply Chain, AI & Delivery  
-Location: India | Open to Global Roles  
-LinkedIn: \[add link] | GitHub Portfolio: \[add link]
+Location: Kolkata, India  
+LinkedIn: https://www.linkedin.com/in/joydeep-majumdar/ | GitHub Portfolio: https://github.com/joy91/career-portfolio
 
 ***
 
