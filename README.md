@@ -9,6 +9,14 @@ This repository is a **career portfolio** designed for recruiters, hiring manage
 
 All content is **case‑study driven**, evidence‑based, and directly mapped to my resume and interview narratives.
 
+
+>Disclaimer:
+>This repository represents a professional portfolio illustration based on real project experience.
+>Engagements described may be limited to evaluation, analysis, advisory, enablement, or partial delivery activities, as explicitly stated in each case study.
+>No confidential client data, proprietary information, or production system details are disclosed.
+>Client identifiers and sensitive elements have been intentionally generalized to preserve confidentiality.
+
+
 👉 **Start here for validation:**  
 📂 [`resume-mapping/resume-to-github.md`](resume-mapping/resume-to-github.md)
 
