@@ -4,7 +4,7 @@ Senior Specialist – Consulting | Analytics, Strategy & Transformation
 
 Kolkata, India
 
-📧 [Email](joydeep9911@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/joydeep-majumdar) | 💻 [GitHub](github.com/joy91)
+📧 [joydeep9911@gmail.com](joydeep9911@gmail.com) | 🔗 [linkedin.com/in/joydeep-majumdar](linkedin.com/in/joydeep-majumdar) | 💻 [github.com/joy91](github.com/joy91)
 
 
 ## CAREER OBJECTIVE
@@ -40,8 +40,8 @@ Coordinated cross‑functional teams of architects, engineers, QA, and business 
 Key Outcome:
 ✅ Achieved 10% improvement in forecast accuracy in the pilot factory, validating scalability for enterprise rollout.
 
-### LTIMindtree | Manager – Data & Analytics
-2022 – 2023
+### LTIMindtree | Manager 
+Data & Analytics | 2022 – 2023
 
 Led AI‑driven product initiatives, including:
 
@@ -59,8 +59,8 @@ Key Outcomes:
 ✅ 15% increase in repeat bookings
 ✅ 20% reduction in service resolution time
 
-### LTIMindtree | Associate Manager – Strategy & Sales Excellence
-2019 – 2021
+### LTIMindtree | Associate Manager 
+Strategy & Sales Excellence | 2019 – 2021
 
 Supported corporate strategy through competitor analysis, secondary market research, and startup investment evaluation.
 Contributed to C‑suite recommendations including near‑shore expansion feasibility.
@@ -74,8 +74,7 @@ Pipeline and account health analytics
 Delivered quarterly and annual executive dashboards for leadership.
 
 
-### LatentView Analytics | Senior Analyst – Advanced Analytics
-2018 – 2019
+### LatentView Analytics | Senior Analyst – Advanced Analytics | 2018 – 2019
 
 Delivered customer insight & profiling using NLP (VADER sentiment analysis, LDA topic modeling) for an automobile client.
 Built contract classification models using NLP + XGBoost (~80% accuracy).
@@ -85,8 +84,7 @@ Presented insights directly to client leadership teams.
 Key Outcome:
 ✅ Supported ~10% sales uplift for FMCG clients through data‑driven targeting.
 
-### IBM | Application Developer – SAP ABAP
-2014 – 2016
+### IBM | Application Developer – SAP ABAP | 2014 – 2016
 
 Developed SAP ABAP solutions across MM, PP, and FICO modules.
 Worked on enterprise implementations for Oil & Gas, Pharmaceuticals, and FMCG clients.
@@ -95,14 +93,15 @@ Recognized with Performance Excellence Award for delivery quality.
 
 
 ## EDUCATION
-*PGDM / MBA – Marketing & Information Technology*
+**PGDM / MBA – Marketing & Information Technology**
 T.A. Pai Management Institute (TAPMI) | 2016 – 2018
+
 ### Internship – Emerging Technology Strategy (Blockchain)
 
 Evaluated blockchain use cases across Finance, Transportation, CPG, and Supply Chain
 Presented executive‑ready recommendations to C‑suite and CBOs
 
-*Bachelor of Technology – Electronics & Communication Engineering*
+**Bachelor of Technology – Electronics & Communication Engineering**
 WBUT | 2009 – 2013
 
 ## CERTIFICATIONS
