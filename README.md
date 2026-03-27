@@ -12,7 +12,7 @@ All content is **case‑study driven**, evidence‑based, and directly mapped to
 
 >Disclaimer:
 >This repository represents a professional portfolio illustration based on real project experience.
->Engagements described may be limited to evaluation, analysis, advisory, enablement, or partial delivery activities, as explicitly stated in each case study.
+>Engagements described may be limited to evaluation, analysis, advisory, enablement, or partial delivery activities, as explicitly stated in each project and case study.
 >No confidential client data, proprietary information, or production system details are disclosed.
 >Client identifiers and sensitive elements have been intentionally generalized to preserve confidentiality.
 
