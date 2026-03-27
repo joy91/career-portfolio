@@ -4,6 +4,14 @@
 **Role:** Senior Analyst / Privacy & CDP Evaluation Contributor  
 **Visibility:** Portfolio‑only (not included on resume)
 
+
+> **Disclaimer:**  
+> This case study describes a **pre‑implementation evaluation and advisory engagement**.  
+> The work focused on **research, client education, and recommendations** related to GDPR Data Subject Rights (DSR) and CDP privacy considerations.  
+> No production system design, build, or deployment was performed as part of this engagement.  
+> Client‑specific identifiers and sensitive details have been intentionally generalized.
+
+
 ---
 
 ## 1. Context & Background
