@@ -1,12 +1,13 @@
-JOYDEEP MAJUMDAR
+#**JOYDEEP MAJUMDAR**
+
 Senior Specialist – Consulting | Analytics, Strategy & Transformation
-Kolkata, India | Open to Global Roles
+Kolkata, India
 📧 joydeep9911@gmail.com | 🔗 linkedin.com/in/joydeep-majumdar | 💻 github.com/joy91
 
-CAREER OBJECTIVE
+##**CAREER OBJECTIVE**
 Manager‑level professional seeking leadership roles in analytics, strategy, supply chain, or PMO, leveraging experience across SAP‑based enterprise platforms, AI/ML, forecasting, and execution governance to deliver data‑driven enterprise transformation.
 
-PROFESSIONAL SUMMARY
+##**PROFESSIONAL SUMMARY**
 Business‑first technology leader with 10+ years of experience across enterprise systems (SAP), AI/ML & advanced analytics, strategy & sales excellence, and supply chain forecasting. Proven ability to bridge business, data science, and engineering teams, lead risk‑managed transformations, and deliver measurable business outcomes. Experienced in C‑suite engagement, cross‑functional leadership, and PMO‑style execution.
 
 CORE COMPETENCIES
