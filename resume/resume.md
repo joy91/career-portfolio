@@ -1,134 +1,120 @@
+JOYDEEP MAJUMDAR
+Senior Specialist – Consulting | Analytics, Strategy & Transformation
+Kolkata, India | Open to Global Roles
+📧 joydeep9911@gmail.com | 🔗 linkedin.com/in/joydeep-majumdar | 💻 github.com/joy91
 
-# **JOYDEEP MAJUMDAR**
+CAREER OBJECTIVE
+Manager‑level professional seeking leadership roles in analytics, strategy, supply chain, or PMO, leveraging experience across SAP‑based enterprise platforms, AI/ML, forecasting, and execution governance to deliver data‑driven enterprise transformation.
 
-Senior Specialist | Strategy, Analytics, Supply Chain, AI & Delivery  
-Location: Kolkata, India  
-LinkedIn: https://www.linkedin.com/in/joydeep-majumdar/ | GitHub Portfolio: https://github.com/joy91/career-portfolio
+PROFESSIONAL SUMMARY
+Business‑first technology leader with 10+ years of experience across enterprise systems (SAP), AI/ML & advanced analytics, strategy & sales excellence, and supply chain forecasting. Proven ability to bridge business, data science, and engineering teams, lead risk‑managed transformations, and deliver measurable business outcomes. Experienced in C‑suite engagement, cross‑functional leadership, and PMO‑style execution.
 
-***
+CORE COMPETENCIES
 
-## **PROFESSIONAL SUMMARY**
+Enterprise Analytics & AI/ML (NLP, Forecasting, Recommendations)
+Strategy, Market Intelligence & Sales Enablement
+Supply Chain Planning & Forecasting (Demand / Supply / DRP)
+Program & Delivery Management (PMO‑style governance)
+Enterprise Data Platforms (SAP MM, CDP)
+Data Governance, Privacy & Regulatory Compliance
+Executive Communication & Stakeholder Management
 
-Business‑first technology leader with **10+ years of experience** spanning **enterprise systems (SAP)**, **AI/ML & analytics**, **strategy & sales excellence**, **supply chain forecasting**, and **PMO‑style delivery leadership**. Proven ability to **bridge business, data science, and engineering teams**, translate complex technology into executive‑ready insights, and deliver **measurable business outcomes**. Experienced in **C‑suite engagement**, cross‑industry consulting, and risk‑managed transformation programs.
 
-***
+PROFESSIONAL EXPERIENCE
+LTIMindtree | Senior Specialist – Consulting
+Data & Insights Consulting | 2024 – Present
 
-## **CORE COMPETENCIES**
+Led enterprise‑scale data transformation initiatives supporting demand and supply forecasting for a European CPG (tobacco) client.
+Designed a SAP MM–based DataHub, integrating multiple SAP tables into an analytics‑ready architecture for planning systems.
+Defined and executed a factory‑by‑factory rollout strategy to avoid operational disruption.
+Owned end‑to‑end delivery: requirements, functional specifications, development oversight, testing, deployment, and hypercare.
+Coordinated cross‑functional teams of architects, engineers, QA, and business stakeholders.
 
-*   Strategy & Transformation
-*   AI / ML & Advanced Analytics (NLP, Forecasting, Recommendations)
-*   Supply Chain Analytics & Planning
-*   PMO / Program & Delivery Governance
-*   Enterprise Data Platforms & ERP (SAP MM)
-*   Sales Excellence & Revenue Enablement
-*   Executive Communication & Stakeholder Management
+Key Outcome:
+✅ Achieved 10% improvement in forecast accuracy in the pilot factory, validating scalability for enterprise rollout.
 
-***
+LTIMindtree | Manager – Data & Analytics
+2022 – 2023
 
-## **PROFESSIONAL EXPERIENCE**
+Led AI‑driven product initiatives, including:
 
-### **Senior Specialist / Senior Analyst – Analytics, AI & Transformation**
+Product Recommendation Engine (Collaborative Filtering + RFM)
+Customer segmentation and look‑alike audience activation
 
-**(Post‑MBA Roles | Multiple Clients & Domains)**
 
-*   Led **AI/ML and NLP‑driven initiatives** including customer insights, recommendation engines, contract classification, and product market positioning.
-*   Acted as the **primary bridge between business stakeholders and data science teams**, ensuring models were interpretable, actionable, and aligned to decisions.
-*   Delivered **customer insight & profiling** using sentiment analysis (VADER) and topic modeling (LDA) to enable personalized communication strategies.
-*   Designed **product recommendation engines** using collaborative filtering and RFM metrics to support cross‑sell and up‑sell use cases.
-*   Supported **CPG product launches** through cohort analysis, whitespace mapping, brand benefit laddering, and positioning frameworks.
-*   Led client walkthroughs and executive presentations translating analytics into **clear business recommendations**.
+Implemented Salesforce Customer Data Platform (CDP) for a major UK railways ticketing system.
+Partnered with client marketing teams to enable personalized travel recommendations, improving repeat bookings.
+Defined data governance, privacy, and consent management aligned with GDPR.
+Delivered executive walkthroughs, user manuals, and adoption enablement.
 
-**Impact Highlights**
+Key Outcomes:
+✅ 30% increase in personalization engagement
+✅ 15% increase in repeat bookings
+✅ 20% reduction in service resolution time
 
-*   Enabled data‑driven personalization and market positioning decisions.
-*   Reduced ambiguity in product launches and customer engagement strategies.
+LTIMindtree | Associate Manager – Strategy & Sales Excellence
+2019 – 2021
 
-***
+Supported corporate strategy through competitor analysis, secondary market research, and startup investment evaluation.
+Contributed to C‑suite recommendations including near‑shore expansion feasibility.
+Led sales enablement and performance governance, including:
 
-### **Associate Manager – Strategy & Sales Excellence**
+CRM governance and adoption
+Sales target setting
+Pipeline and account health analytics
 
-**Internal Enablement Function**
 
-*   Supported **corporate strategy initiatives** including competitor analysis, market intelligence, and startup / investment evaluations.
-*   Conducted **secondary market research** to support leadership decisions such as near‑shore expansion strategies.
-*   Enabled sales organizations through **CRM governance**, sales target setting, and performance analytics.
-*   Prepared and delivered **quarterly and annual C‑suite presentations** covering account health, pipeline risks, and sales performance.
-*   Acted as an internal consultant balancing strategic insight with operational execution.
+Delivered quarterly and annual executive dashboards for leadership.
 
-**Impact Highlights**
 
-*   Improved leadership visibility into sales performance and strategic risks.
-*   Strengthened sales enablement and governance processes.
+LatentView Analytics | Senior Analyst – Advanced Analytics
+2018 – 2019
 
-***
+Delivered customer insight & profiling using NLP (VADER sentiment analysis, LDA topic modeling) for an automobile client.
+Built contract classification models using NLP + XGBoost (~80% accuracy).
+Led CPG product market positioning initiatives using cohort analysis and whitespace mapping.
+Presented insights directly to client leadership teams.
 
-### **Functional Consultant – Supply Chain Analytics & Forecasting**
+Key Outcome:
+✅ Supported ~10% sales uplift for FMCG clients through data‑driven targeting.
 
-**CPG (Tobacco) Client | Europe**
+IBM | Application Developer – SAP ABAP
+2014 – 2016
 
-*   Designed and implemented a **centralized DataHub** modeled on **SAP MM tables** to support demand and supply forecasting.
-*   Owned end‑to‑end delivery: requirements gathering, functional specifications, development oversight, testing, deployment, and hypercare.
-*   Defined **phased, factory‑by‑factory rollout strategy** to avoid operational disruption.
-*   Coordinated architects, developers, QA, and business stakeholders.
-*   Managed post‑deployment defect tracking, root‑cause analysis, and change requests.
+Developed SAP ABAP solutions across MM, PP, and FICO modules.
+Worked on enterprise implementations for Oil & Gas, Pharmaceuticals, and FMCG clients.
+Built custom reports, interfaces, BAPIs, BAdIs, and SAP Forms.
+Recognized with Performance Excellence Award for delivery quality.
 
-**Impact Highlights**
 
-*   Achieved **10% improvement in forecast accuracy** in the pilot factory.
-*   Established a scalable foundation for enterprise‑wide rollout.
+EDUCATION
+PGDM / MBA – Marketing & Information Technology
+T.A. Pai Management Institute (TAPMI) | 2016 – 2018
+Internship – Emerging Technology Strategy (Blockchain)
 
-***
+Evaluated blockchain use cases across Finance, Transportation, CPG, and Supply Chain
+Presented executive‑ready recommendations to C‑suite and CBOs
 
-### **Early Career – SAP ABAP Developer**
+Bachelor of Technology – Electronics & Communication Engineering
+WBUT | 2009 – 2013
 
-**Enterprise ERP Implementations**
+CERTIFICATIONS
 
-*   Developed and enhanced SAP solutions across **MM, PP, and FICO** modules.
-*   Built custom programs using **ABAP, BAPIs, BAdIs, SmartForms/SAPScript**.
-*   Supported mission‑critical ERP processes across **Oil & Gas, Pharmaceuticals, and FMCG** domains.
-*   Collaborated closely with functional consultants and business users to translate requirements into stable production solutions.
+Salesforce Marketing Cloud Customer Data Platform – Accredited Professional
+Databricks Generative AI Fundamentals
+Generative AI for Everyone – Coursera
+Lytics CDP Certification
+BlueConic Fundamentals Certification
 
-**Foundation Built**
 
-*   Deep understanding of enterprise data models and cross‑module integration.
-*   Strong grounding in quality, testing, and production stability.
+LEADERSHIP HIGHLIGHTS
 
-***
+Led cross‑functional teams of 6+ engineers and analysts
+Delivered enterprise analytics and forecasting platforms
+Supported executive decision‑making through structured insights
+Designed risk‑managed rollouts for business‑critical systems
 
-## **EDUCATION**
 
-**Master of Business Administration (MBA)**  
-Full‑Time Program | \[Esteemed Institution]
-
-**Internship – Emerging Technology Strategy (Blockchain)**
-
-*   Evaluated blockchain as a **Horizon‑2 enterprise technology**.
-*   Created business case studies across **Finance, Transportation, CPG, and Supply Chain**.
-*   Presented executive‑ready insights to **C‑suite leaders and Chief Business Officers**.
-
-***
-
-## **TECHNICAL & ANALYTICAL SKILLS**
-
-*   Analytics & AI: NLP, Sentiment Analysis, Topic Modeling, Forecasting, ML Concepts
-*   Data & Platforms: SAP MM, Enterprise Data Modeling
-*   Strategy Tools: Market Analysis, Cohort Analysis, Whitespace Mapping
-*   Delivery & PMO: Requirements, Planning, Risk & Change Management
-*   Tools: Python (conceptual), SQL (conceptual), BI & Analytics Platforms
-
-***
-
-## **CAREER HIGHLIGHTS**
-
-*   Career progression spanning **SAP ABAP → MBA Strategy → AI/ML & Analytics → Strategy & Sales Excellence → Supply Chain Forecasting → PMO‑style Leadership**.
-*   Strong **C‑suite exposure** and executive communication experience.
-*   Known for **clarity, execution discipline, and business‑aligned technology decisions**.
-
-***
-
-## **PORTFOLIO**
-
-Detailed, evidence‑based case studies available at:  
-**GitHub:** https://github.com/joy91/career-portfolio
-
-***
+PORTFOLIO
+GitHub (Case Studies & Evidence):
+👉 https://github.com/joy91/career-portfolio
