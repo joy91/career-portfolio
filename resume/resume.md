@@ -39,7 +39,7 @@ Predictive Analytics, Machine Learning, NLP, Forecasting, Customer Segmentation
 Stakeholder Management, Product Strategy, Marketing Analytics, Supply Chain Analytics
 
 ### Technology
-Python, SQL, R, Power BI, Tableau, Salesforce CDP, SAP (MM, PP, FICO)
+Python, SQL, R, Power BI, Tableau, Salesforce CDP, SAP 
 
 ## PROFESSIONAL EXPERIENCE
 ### LTIMINDTREE
