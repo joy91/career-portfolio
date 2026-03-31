@@ -43,7 +43,7 @@ Python, SQL, R, Power BI, Tableau, Salesforce CDP, SAP (MM, PP, FICO)
 
 ## PROFESSIONAL EXPERIENCE
 ### LTIMINDTREE
-#### Senior Specialist – Consulting (Manager Equivalent)
+#### Senior Specialist – Consulting (Senior Manager Equivalent)
 
 2024 – Present
 
