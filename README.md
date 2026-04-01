@@ -28,7 +28,7 @@ All content is **case‑study driven**, evidence‑based, and directly mapped to
 → **MBA & Emerging Technology Strategy (Blockchain)**  
 → **AI / ML & Advanced Analytics (Senior Analyst)**  
 → **Strategy & Sales Excellence (Associate Manager)**  
-→ **Supply Chain Forecasting & Data Platforms (SAP MM)**  
+→ **Supply Chain Forecasting & Data Platforms**  
 → **PMO‑style Delivery Leadership**
 
 This reflects a deliberate progression from  
@@ -76,7 +76,7 @@ This section explains the **foundation behind my later analytics, AI, and strate
 ---
 
 ### 🔹 AI / ML & Advanced Analytics
-📂 [`ai-product-work/`](ai-product-work/)
+📂 [`project-case-studies/`](project-case-studies/)
 
 Representative case studies include:
 - **Product Recommendation Engine** (Collaborative Filtering + RFM)  
