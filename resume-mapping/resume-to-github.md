@@ -56,7 +56,7 @@ Each section below maps **resume claims → portfolio evidence**.
 - Led client walkthroughs and executive presentations
 
 ### GitHub Evidence
-📂 `project-case-studies/ai-product-work/`
+📂 `project-case-studies/`
 
 **Representative Case Studies**
 - Product Recommendation Engine (Collaborative Filtering + RFM)
